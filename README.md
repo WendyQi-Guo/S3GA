@@ -10,4 +10,14 @@
 6. **GSSL**: training model for Graph alignment in Self-Supervised Learning (GSSL).
 7. **baselines**: the baseline methods we implemented and adapted for unsupervised scenarios.
 
+## Dataset 
 
+The IDS benchmark is provided by [OpenEA](https://github.com/nju-websoft/OpenEA). 
+We use the 2.0 version of IDS dataset to avoid name bias issue.
+
+The DBP1M benchmark is provided by [LargeEA](https://github.com/ZJU-DAILY/LargeEA).
+
+First download and unzip dataset files, place them to the project root folder:
+
+    unzip OpenEA_dataset_v2.0.zip
+    unzip mkdata.zip
