@@ -8,7 +8,8 @@
 4. **data**: includes the dataset and preprocessing files.
 5. **experiments**: contains configuration files for various datasets.
 6. **GSSL**: training model for Graph alignment in Self-Supervised Learning (GSSL).
-7. **baselines**: the baseline methods we implemented and adapted for unsupervised scenarios.
+7. **baselines**: the baseline methods we implemented and adapted for unsupervised scenarios. The files in the baselines folder can be run by placing them in the corresponding method's GitHub repository.
+
 
 ## Dataset 
 
